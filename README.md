@@ -1,7 +1,7 @@
 ### Welcome 👋
 ### I am Ignacy Mermer and a freelance full-stack student developer.
 ### Currently student of IX Liceum in Częstochowa, in Poland.
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacyMermer2003&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacyMermer2003&theme=radical&layout=compact)
 ###
 ##### Technologies:
 ### - <img src="https://user-images.githubusercontent.com/60555082/123276553-8f42bb00-d505-11eb-88de-c369a846a01d.png" height="24" width="24"/> Java ( JavaFX, Swing )
