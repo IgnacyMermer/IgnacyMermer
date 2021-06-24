@@ -6,7 +6,7 @@
 ### - Java (JavaFX, Swing)
 ### - Javascript (![image](https://user-images.githubusercontent.com/60555082/123275057-50603580-d504-11eb-9b52-ef409f55220a.png)ReactJS, ![image](https://user-images.githubusercontent.com/60555082/123275510-a9c86480-d504-11eb-8833-cd4489b81c75.png)NodeJS, NextJS)
 ### - Dart (![image](https://user-images.githubusercontent.com/60555082/123275021-476f6400-d504-11eb-91eb-b243d5695056.png)Flutter)
-### - Databases (Microsoft SQL Server, ![image](https://user-images.githubusercontent.com/60555082/123274968-3de5fc00-d504-11eb-9728-cfcb3476997f.png)MongoDB, ![image](https://user-images.githubusercontent.com/60555082/123274813-21e25a80-d504-11eb-8fd8-6ed114050bb5.png)Firebase)
+### - Databases (Microsoft SQL Server, ![image](https://user-images.githubusercontent.com/60555082/123274968-3de5fc00-d504-11eb-9728-cfcb3476997f.png =32x32)MongoDB, ![image](https://user-images.githubusercontent.com/60555082/123274813-21e25a80-d504-11eb-8fd8-6ed114050bb5.png)Firebase)
 
 
 
