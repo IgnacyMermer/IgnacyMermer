@@ -8,11 +8,13 @@
 ### - <img src="https://user-images.githubusercontent.com/60555082/123276651-a71a3f00-d505-11eb-8d53-68bacb72389b.png" height="24" width="24"/> Javascript ( <img src="https://user-images.githubusercontent.com/60555082/123275057-50603580-d504-11eb-9b52-ef409f55220a.png" height="24" width="24"/> ReactJS, <img src="https://user-images.githubusercontent.com/60555082/123276307-586ca500-d505-11eb-86b5-39fe0a327b07.png" height="24" width="24"/> NodeJS, NextJS )
 ### - Dart ( <img src="https://user-images.githubusercontent.com/60555082/123275021-476f6400-d504-11eb-91eb-b243d5695056.png" height="24" width="24"/> Flutter )
 ### - Databases ( Microsoft SQL Server, <img src="https://user-images.githubusercontent.com/60555082/123274968-3de5fc00-d504-11eb-9728-cfcb3476997f.png" height="24" width="24"/> MongoDB, <img src="https://user-images.githubusercontent.com/60555082/123274813-21e25a80-d504-11eb-8fd8-6ed114050bb5.png" height="24" width="24"/> Firebase )
+### - Cloud Platform ( <img src="https://user-images.githubusercontent.com/60555082/123277860-c5cd0580-d506-11eb-9053-70bf29c3722f.png" height="24" width="24"/> Google Cloud Platform)
 ###
 ###
 ###
 ### My fine projects to school:
 ### https://www.fusic.eu/ (in group), https://matmago-8c067.web.app/
+### More apps are not public and wait for publish on hosting or on Google Play Store (they will wait a little longer 😉)
 ###
 ### 🌱 I’m currently learning NodeJS and MongoDB and prepare for make bigger project.
 ### 📫 Reach me: mermerignacy@gmail.com
