@@ -13,7 +13,7 @@
 ###
 ###
 ###
-### My fine projects to school:
+My fine projects to school:
 ### https://www.fusic.eu/ (in group), https://matmago-8c067.web.app/
 ### More apps are not public and wait for publish on hosting or on Google Play Store (they will wait a little longer 😉)
 ###
