@@ -13,7 +13,7 @@
 ###
 ###
 ###
-My fine projects to school:
+<span style="font-family: 'Lucida Console'; font-size:'20px'">My fine projects to school</span>
 ### https://www.fusic.eu/ (in group), https://matmago-8c067.web.app/
 ### More apps are not public and wait for publish on hosting or on Google Play Store (they will wait a little longer 😉)
 ###
