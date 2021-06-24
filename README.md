@@ -2,12 +2,20 @@
 ### I am Ignacy Mermer and a freelance full-stack developer.
 ### Currently student of IX Liceum in Częstochowa, in Poland.
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacyMermer2003&layout=compact)
+###
 ##### Technologies:
-### - <img src="https://user-images.githubusercontent.com/60555082/123276553-8f42bb00-d505-11eb-88de-c369a846a01d.png" height="28" width="28"/>Java (JavaFX, Swing)
-### - <img src="https://user-images.githubusercontent.com/60555082/123276651-a71a3f00-d505-11eb-8d53-68bacb72389b.png" height="28" width="28"/>Javascript (<img src="https://user-images.githubusercontent.com/60555082/123275057-50603580-d504-11eb-9b52-ef409f55220a.png" height="24" width="24"/>ReactJS, <img src="https://user-images.githubusercontent.com/60555082/123276307-586ca500-d505-11eb-86b5-39fe0a327b07.png" height="28" width="28"/>NodeJS, NextJS)
-### - Dart (<img src="https://user-images.githubusercontent.com/60555082/123275021-476f6400-d504-11eb-91eb-b243d5695056.png" height="28" width="28"/>Flutter)
-### - Databases (Microsoft SQL Server, <img src="https://user-images.githubusercontent.com/60555082/123274968-3de5fc00-d504-11eb-9728-cfcb3476997f.png" height="28" width="28"/>MongoDB, <img src="https://user-images.githubusercontent.com/60555082/123274813-21e25a80-d504-11eb-8fd8-6ed114050bb5.png" height="28" width="28"/>Firebase)
-
+### - <img src="https://user-images.githubusercontent.com/60555082/123276553-8f42bb00-d505-11eb-88de-c369a846a01d.png" height="28" width="28"/> Java ( JavaFX, Swing )
+### - <img src="https://user-images.githubusercontent.com/60555082/123276651-a71a3f00-d505-11eb-8d53-68bacb72389b.png" height="28" width="28"/> Javascript ( <img src="https://user-images.githubusercontent.com/60555082/123275057-50603580-d504-11eb-9b52-ef409f55220a.png" height="24" width="24"/> ReactJS, <img src="https://user-images.githubusercontent.com/60555082/123276307-586ca500-d505-11eb-86b5-39fe0a327b07.png" height="28" width="28"/> NodeJS, NextJS )
+### - Dart ( <img src="https://user-images.githubusercontent.com/60555082/123275021-476f6400-d504-11eb-91eb-b243d5695056.png" height="28" width="28"/> Flutter )
+### - Databases ( Microsoft SQL Server, <img src="https://user-images.githubusercontent.com/60555082/123274968-3de5fc00-d504-11eb-9728-cfcb3476997f.png" height="28" width="28"/> MongoDB, <img src="https://user-images.githubusercontent.com/60555082/123274813-21e25a80-d504-11eb-8fd8-6ed114050bb5.png" height="28" width="28"/> Firebase )
+###
+###
+###
+### My fine projects to school:
+### https://www.fusic.eu/ (in group), https://matmago-8c067.web.app/
+###
+### 🌱 I’m currently learning NodeJS and MongoDB and prepare for make bigger project.
+### 📫 Reach me: mermerignacy@gmail.com
 
 
 <!--
