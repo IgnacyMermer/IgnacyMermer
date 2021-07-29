@@ -17,7 +17,7 @@
 ### https://www.fusic.eu/ (in group), https://matmago-8c067.web.app/
 ### More apps are not public and wait for publish on hosting or on Google Play Store (they will wait a little longer 😉)
 ###
-### 🌱 I’m currently learning NodeJS and MongoDB and prepare for make bigger project.
+### 🌱 I’m currently learning NodeJS and web development and prepare for make bigger project.
 ### 📫 Reach me: mermerignacy@gmail.com
 
 
