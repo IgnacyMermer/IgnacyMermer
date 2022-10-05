@@ -1,6 +1,6 @@
 # Welcome 👋
 # I am Ignacy Mermer and a freelance full-stack student developer.
-### Currently student of IX Liceum in Częstochowa, in Poland.
+### Currently student of Warsaw University of Technology, in Poland.
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacyMermer&theme=radical&layout=compact)
 ![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=IgnacyMermer&show_icons=true&theme=radical)
 ![Github Stats](https://github-profile-trophy.vercel.app/?username=IgnacyMermer&theme=onedark)
